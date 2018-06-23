@@ -1,8 +1,8 @@
-package com.sample.generics;
+package com.sample.features.generics;
 
-public class Sample {
-	
-	private String name;
+public class Person {
+
+	String name;
 
 	public String getName() {
 		return name;

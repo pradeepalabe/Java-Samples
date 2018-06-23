@@ -1,4 +1,4 @@
-package com.sample.generics;
+package com.sample.features.generics;
 
 /**
  * Hello world!

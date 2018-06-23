@@ -1,4 +1,4 @@
-package com.sample.generics;
+package com.sample.test.features.generics;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
